@@ -21,8 +21,10 @@ class App extends React.Component {
                 <li key={coin.id} className="coin-item">
                   <div className="coin-image">
                     <img
-                      alt="Placeholder"
-                      src="http://placeholder.pics/svg/300"
+                      alt={coin.name}
+                      src={require(`cryptocurrency-icons/dist/svg/color/${
+                        coin.symbol
+                      }.svg`)}
                     />
                   </div>
 

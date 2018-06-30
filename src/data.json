@@ -1,333 +1,333 @@
 [
   {
-    "rank": "1",
-    "id": "bitcoin",
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "price_usd": "5914.68",
-    "price_btc": "1.0",
-    "last_updated": "1530270794"
-  },
-  {
     "rank": "2",
     "id": "ethereum",
     "name": "Ethereum",
-    "symbol": "ETH",
+    "symbol": "eth",
     "price_usd": "416.273",
     "price_btc": "0.0707077",
     "last_updated": "1530270797"
   },
   {
-    "rank": "3",
-    "id": "ripple",
-    "name": "Ripple",
-    "symbol": "XRP",
-    "price_usd": "0.437228",
-    "price_btc": "0.00007427",
-    "last_updated": "1530270782"
+    "rank": "46",
+    "id": "stratis",
+    "name": "Stratis",
+    "symbol": "strat",
+    "price_usd": "2.22054",
+    "price_btc": "0.00037718",
+    "last_updated": "1530270788"
   },
   {
-    "rank": "4",
-    "id": "bitcoin-cash",
-    "name": "Bitcoin Cash",
-    "symbol": "BCH",
-    "price_usd": "661.519",
-    "price_btc": "0.112365",
-    "last_updated": "1530270797"
+    "rank": "89",
+    "id": "bibox-token",
+    "name": "Bibox Token",
+    "symbol": "bix",
+    "price_usd": "0.869317",
+    "price_btc": "0.00014766",
+    "last_updated": "1530270803"
   },
   {
-    "rank": "5",
-    "id": "eos",
-    "name": "EOS",
-    "symbol": "EOS",
-    "price_usd": "7.26767",
-    "price_btc": "0.00123448",
+    "rank": "71",
+    "id": "ark",
+    "name": "Ark",
+    "symbol": "ark",
+    "price_usd": "1.18537",
+    "price_btc": "0.00020135",
     "last_updated": "1530270794"
   },
   {
-    "rank": "6",
-    "id": "litecoin",
-    "name": "Litecoin",
-    "symbol": "LTC",
-    "price_usd": "73.9838",
-    "price_btc": "0.0125668",
-    "last_updated": "1530270781"
-  },
-  {
-    "rank": "7",
-    "id": "stellar",
-    "name": "Stellar",
-    "symbol": "XLM",
-    "price_usd": "0.17686",
-    "price_btc": "0.00003004",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "8",
-    "id": "cardano",
-    "name": "Cardano",
-    "symbol": "ADA",
-    "price_usd": "0.116583",
-    "price_btc": "0.00001980",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "9",
-    "id": "tether",
-    "name": "Tether",
-    "symbol": "USDT",
-    "price_usd": "0.998381",
-    "price_btc": "0.00016958",
+    "rank": "70",
+    "id": "ardor",
+    "name": "Ardor",
+    "symbol": "ardr",
+    "price_usd": "0.126451",
+    "price_btc": "0.00002148",
     "last_updated": "1530270785"
   },
   {
-    "rank": "10",
-    "id": "iota",
-    "name": "IOTA",
-    "symbol": "MIOTA",
-    "price_usd": "0.915682",
-    "price_btc": "0.00015554",
+    "rank": "64",
+    "id": "bancor",
+    "name": "Bancor",
+    "symbol": "bnt",
+    "price_usd": "2.68589",
+    "price_btc": "0.00045622",
     "last_updated": "1530270794"
   },
   {
-    "rank": "11",
-    "id": "tron",
-    "name": "TRON",
-    "symbol": "TRX",
-    "price_usd": "0.0357315",
-    "price_btc": "0.00000607",
+    "rank": "61",
+    "id": "aion",
+    "name": "Aion",
+    "symbol": "aion",
+    "price_usd": "0.868301",
+    "price_btc": "0.00014749",
     "last_updated": "1530270797"
   },
   {
-    "rank": "12",
-    "id": "monero",
-    "name": "Monero",
-    "symbol": "XMR",
-    "price_usd": "121.367",
-    "price_btc": "0.0206152",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "13",
-    "id": "neo",
-    "name": "NEO",
-    "symbol": "NEO",
-    "price_usd": "28.1821",
-    "price_btc": "0.00478698",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "14",
-    "id": "dash",
-    "name": "Dash",
-    "symbol": "DASH",
-    "price_usd": "219.992",
-    "price_btc": "0.0373676",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "15",
-    "id": "binance-coin",
-    "name": "Binance Coin",
-    "symbol": "BNB",
-    "price_usd": "13.9522",
-    "price_btc": "0.00236991",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "16",
-    "id": "ethereum-classic",
-    "name": "Ethereum Classic",
-    "symbol": "ETC",
-    "price_usd": "14.6099",
-    "price_btc": "0.00248162",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "17",
-    "id": "vechain",
-    "name": "VeChain",
-    "symbol": "VEN",
-    "price_usd": "2.47509",
-    "price_btc": "0.00042042",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "18",
-    "id": "nem",
-    "name": "NEM",
-    "symbol": "XEM",
-    "price_usd": "0.147477",
-    "price_btc": "0.00002505",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "19",
-    "id": "ontology",
-    "name": "Ontology",
-    "symbol": "ONT",
-    "price_usd": "4.80504",
-    "price_btc": "0.00081618",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "20",
-    "id": "qtum",
-    "name": "Qtum",
-    "symbol": "QTUM",
-    "price_usd": "7.89536",
-    "price_btc": "0.0013411",
+    "rank": "50",
+    "id": "basic-attention-token",
+    "name": "Basic Attention Token",
+    "symbol": "bat",
+    "price_usd": "0.201903",
+    "price_btc": "0.00003430",
     "last_updated": "1530270794"
-  },
-  {
-    "rank": "21",
-    "id": "omisego",
-    "name": "OmiseGO",
-    "symbol": "OMG",
-    "price_usd": "6.79884",
-    "price_btc": "0.00115484",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "22",
-    "id": "zcash",
-    "name": "Zcash",
-    "symbol": "ZEC",
-    "price_usd": "149.534",
-    "price_btc": "0.0253996",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "23",
-    "id": "icon",
-    "name": "ICON",
-    "symbol": "ICX",
-    "price_usd": "1.43098",
-    "price_btc": "0.00024306",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "24",
-    "id": "lisk",
-    "name": "Lisk",
-    "symbol": "LSK",
-    "price_usd": "4.83928",
-    "price_btc": "0.000822",
-    "last_updated": "1530270789"
-  },
-  {
-    "rank": "25",
-    "id": "zilliqa",
-    "name": "Zilliqa",
-    "symbol": "ZIL",
-    "price_usd": "0.0612896",
-    "price_btc": "0.00001041",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "26",
-    "id": "bytecoin-bcn",
-    "name": "Bytecoin",
-    "symbol": "BCN",
-    "price_usd": "0.0024415",
-    "price_btc": "0.00000041",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "27",
-    "id": "decred",
-    "name": "Decred",
-    "symbol": "DCR",
-    "price_usd": "61.552",
-    "price_btc": "0.0104552",
-    "last_updated": "1530270786"
-  },
-  {
-    "rank": "28",
-    "id": "aeternity",
-    "name": "Aeternity",
-    "symbol": "AE",
-    "price_usd": "1.74036",
-    "price_btc": "0.00029562",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "29",
-    "id": "bitcoin-gold",
-    "name": "Bitcoin Gold",
-    "symbol": "BTG",
-    "price_usd": "23.6108",
-    "price_btc": "0.0040105",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "30",
-    "id": "bytom",
-    "name": "Bytom",
-    "symbol": "BTM",
-    "price_usd": "0.354874",
-    "price_btc": "0.00006028",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "31",
-    "id": "augur",
-    "name": "Augur",
-    "symbol": "REP",
-    "price_usd": "31.7038",
-    "price_btc": "0.00538518",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "32",
-    "id": "bitshares",
-    "name": "BitShares",
-    "symbol": "BTS",
-    "price_usd": "0.127964",
-    "price_btc": "0.00002174",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "33",
-    "id": "steem",
-    "name": "Steem",
-    "symbol": "STEEM",
-    "price_usd": "1.25224",
-    "price_btc": "0.0002127",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "34",
-    "id": "siacoin",
-    "name": "Siacoin",
-    "symbol": "SC",
-    "price_usd": "0.0094039",
-    "price_btc": "0.00000160",
-    "last_updated": "1530270790"
   },
   {
     "rank": "35",
     "id": "0x",
     "name": "0x",
-    "symbol": "ZRX",
+    "symbol": "zrx",
     "price_usd": "0.602347",
     "price_btc": "0.00010231",
     "last_updated": "1530270794"
   },
   {
-    "rank": "36",
-    "id": "verge",
-    "name": "Verge",
-    "symbol": "XVG",
-    "price_usd": "0.0209906",
-    "price_btc": "0.00000357",
+    "rank": "32",
+    "id": "bitshares",
+    "name": "BitShares",
+    "symbol": "bts",
+    "price_usd": "0.127964",
+    "price_btc": "0.00002174",
     "last_updated": "1530270784"
+  },
+  {
+    "rank": "31",
+    "id": "augur",
+    "name": "Augur",
+    "symbol": "rep",
+    "price_usd": "31.7038",
+    "price_btc": "0.00538518",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "28",
+    "id": "aeternity",
+    "name": "Aeternity",
+    "symbol": "ae",
+    "price_usd": "1.74036",
+    "price_btc": "0.00029562",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "15",
+    "id": "binance-coin",
+    "name": "Binance Coin",
+    "symbol": "bnb",
+    "price_usd": "13.9522",
+    "price_btc": "0.00236991",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "53",
+    "id": "hshare",
+    "name": "Hshare",
+    "symbol": "hsr",
+    "price_usd": "4.42225",
+    "price_btc": "0.00075116",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "14",
+    "id": "dash",
+    "name": "Dash",
+    "symbol": "dash",
+    "price_usd": "219.992",
+    "price_btc": "0.0373676",
+    "last_updated": "1530270784"
+  },
+  {
+    "rank": "86",
+    "id": "cybermiles",
+    "name": "CyberMiles",
+    "symbol": "cmt",
+    "price_usd": "0.13296",
+    "price_btc": "0.00002258",
+    "last_updated": "1530270800"
+  },
+  {
+    "rank": "4",
+    "id": "bitcoin-cash",
+    "name": "Bitcoin Cash",
+    "symbol": "bch",
+    "price_usd": "661.519",
+    "price_btc": "0.112365",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "63",
+    "id": "cryptonex",
+    "name": "Cryptonex",
+    "symbol": "cnx",
+    "price_usd": "3.1765",
+    "price_btc": "0.00053956",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "52",
+    "id": "bitcoin-private",
+    "name": "Bitcoin Private",
+    "symbol": "btcp",
+    "price_usd": "9.7937",
+    "price_btc": "0.00166355",
+    "last_updated": "1530270803"
+  },
+  {
+    "rank": "8",
+    "id": "cardano",
+    "name": "Cardano",
+    "symbol": "ada",
+    "price_usd": "0.116583",
+    "price_btc": "0.00001980",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "40",
+    "id": "bitcoin-diamond",
+    "name": "Bitcoin Diamond",
+    "symbol": "bcd",
+    "price_usd": "1.80211",
+    "price_btc": "0.0003061",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "30",
+    "id": "bytom",
+    "name": "Bytom",
+    "symbol": "btm",
+    "price_usd": "0.354874",
+    "price_btc": "0.00006028",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "29",
+    "id": "bitcoin-gold",
+    "name": "Bitcoin Gold",
+    "symbol": "btg",
+    "price_usd": "23.6108",
+    "price_btc": "0.0040105",
+    "last_updated": "1530270800"
+  },
+  {
+    "rank": "26",
+    "id": "bytecoin-bcn",
+    "name": "Bytecoin",
+    "symbol": "bcn",
+    "price_usd": "0.0024415",
+    "price_btc": "0.00000041",
+    "last_updated": "1530270784"
+  },
+  {
+    "rank": "59",
+    "id": "kucoin-shares",
+    "name": "KuCoin Shares",
+    "symbol": "kcs",
+    "price_usd": "1.84345",
+    "price_btc": "0.00031313",
+    "last_updated": "1530270800"
+  },
+  {
+    "rank": "99",
+    "id": "nuls",
+    "name": "Nuls",
+    "symbol": "nuls",
+    "price_usd": "1.89186",
+    "price_btc": "0.00032135",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "27",
+    "id": "decred",
+    "name": "Decred",
+    "symbol": "dcr",
+    "price_usd": "61.552",
+    "price_btc": "0.0104552",
+    "last_updated": "1530270786"
+  },
+  {
+    "rank": "12",
+    "id": "monero",
+    "name": "Monero",
+    "symbol": "xmr",
+    "price_usd": "121.367",
+    "price_btc": "0.0206152",
+    "last_updated": "1530270784"
+  },
+  {
+    "rank": "23",
+    "id": "icon",
+    "name": "ICON",
+    "symbol": "icx",
+    "price_usd": "1.43098",
+    "price_btc": "0.00024306",
+    "last_updated": "1530270800"
+  },
+  {
+    "rank": "95",
+    "id": "decentraland",
+    "name": "Decentraland",
+    "symbol": "mana",
+    "price_usd": "0.0806708",
+    "price_btc": "0.00001370",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "93",
+    "id": "monaco",
+    "name": "Monaco",
+    "symbol": "mco",
+    "price_usd": "5.53683",
+    "price_btc": "0.00094048",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "10",
+    "id": "iota",
+    "name": "IOTA",
+    "symbol": "miota",
+    "price_usd": "0.915682",
+    "price_btc": "0.00015554",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "91",
+    "id": "fusion",
+    "name": "Fusion",
+    "symbol": "fsn",
+    "price_usd": "2.99776",
+    "price_btc": "0.0005092",
+    "last_updated": "1530270803"
+  },
+  {
+    "rank": "16",
+    "id": "ethereum-classic",
+    "name": "Ethereum Classic",
+    "symbol": "etc",
+    "price_usd": "14.6099",
+    "price_btc": "0.00248162",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "85",
+    "id": "gas",
+    "name": "Gas",
+    "symbol": "gas",
+    "price_usd": "9.11532",
+    "price_btc": "0.00154832",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "84",
+    "id": "elastos",
+    "name": "Elastos",
+    "symbol": "ela",
+    "price_usd": "18.4602",
+    "price_btc": "0.00313563",
+    "last_updated": "1530270800"
   },
   {
     "rank": "37",
     "id": "maker",
     "name": "Maker",
-    "symbol": "MKR",
+    "symbol": "mkr",
     "price_usd": "488.797",
     "price_btc": "0.0830266",
     "last_updated": "1530270789"
@@ -336,52 +336,52 @@
     "rank": "38",
     "id": "nano",
     "name": "Nano",
-    "symbol": "NANO",
+    "symbol": "nano",
     "price_usd": "2.15048",
     "price_btc": "0.00036528",
     "last_updated": "1530270790"
   },
   {
-    "rank": "39",
-    "id": "rchain",
-    "name": "RChain",
-    "symbol": "RHOC",
-    "price_usd": "0.777441",
-    "price_btc": "0.00013206",
+    "rank": "83",
+    "id": "kin",
+    "name": "Kin",
+    "symbol": "kin",
+    "price_usd": "0.00013045",
+    "price_btc": "0.00000002",
     "last_updated": "1530270797"
   },
   {
-    "rank": "40",
-    "id": "bitcoin-diamond",
-    "name": "Bitcoin Diamond",
-    "symbol": "BCD",
-    "price_usd": "1.80211",
-    "price_btc": "0.0003061",
-    "last_updated": "1530270797"
+    "rank": "82",
+    "id": "emercoin",
+    "name": "Emercoin",
+    "symbol": "emc",
+    "price_usd": "2.38069",
+    "price_btc": "0.00040438",
+    "last_updated": "1530270786"
   },
   {
     "rank": "41",
     "id": "dogecoin",
     "name": "Dogecoin",
-    "symbol": "DOGE",
+    "symbol": "doge",
     "price_usd": "0.00233739",
     "price_btc": "0.00000040",
     "last_updated": "1530270784"
   },
   {
-    "rank": "42",
-    "id": "waves",
-    "name": "Waves",
-    "symbol": "WAVES",
-    "price_usd": "2.48369",
-    "price_btc": "0.00042188",
-    "last_updated": "1530270790"
+    "rank": "79",
+    "id": "enigma-project",
+    "name": "Enigma",
+    "symbol": "eng",
+    "price_usd": "1.35014",
+    "price_btc": "0.00022933",
+    "last_updated": "1530270797"
   },
   {
     "rank": "43",
     "id": "golem-network-tokens",
     "name": "Golem",
-    "symbol": "GNT",
+    "symbol": "gnt",
     "price_usd": "0.291834",
     "price_btc": "0.00004957",
     "last_updated": "1530270789"
@@ -390,124 +390,106 @@
     "rank": "44",
     "id": "digibyte",
     "name": "DigiByte",
-    "symbol": "DGB",
+    "symbol": "dgb",
     "price_usd": "0.022611",
     "price_btc": "0.00000384",
     "last_updated": "1530270781"
   },
   {
-    "rank": "45",
-    "id": "mixin",
-    "name": "Mixin",
-    "symbol": "XIN",
-    "price_usd": "506.216",
-    "price_btc": "0.0859853",
-    "last_updated": "1530270806"
-  },
-  {
-    "rank": "46",
-    "id": "stratis",
-    "name": "Stratis",
-    "symbol": "STRAT",
-    "price_usd": "2.22054",
-    "price_btc": "0.00037718",
-    "last_updated": "1530270788"
-  },
-  {
-    "rank": "47",
-    "id": "populous",
-    "name": "Populous",
-    "symbol": "PPT",
-    "price_usd": "5.91619",
-    "price_btc": "0.00100492",
+    "rank": "1",
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "btc",
+    "price_usd": "5914.68",
+    "price_btc": "1.0",
     "last_updated": "1530270794"
   },
   {
-    "rank": "48",
-    "id": "wanchain",
-    "name": "Wanchain",
-    "symbol": "WAN",
-    "price_usd": "2.01723",
-    "price_btc": "0.00034264",
-    "last_updated": "1530270806"
+    "rank": "78",
+    "id": "kyber-network",
+    "name": "Kyber Network",
+    "symbol": "knc",
+    "price_usd": "0.763206",
+    "price_btc": "0.00012964",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "76",
+    "id": "ethos",
+    "name": "Ethos",
+    "symbol": "ethos",
+    "price_usd": "1.41575",
+    "price_btc": "0.00024048",
+    "last_updated": "1530270794"
   },
   {
     "rank": "49",
     "id": "nebulas-token",
     "name": "Nebulas",
-    "symbol": "NAS",
+    "symbol": "nas",
     "price_usd": "4.54843",
     "price_btc": "0.00077259",
     "last_updated": "1530270794"
   },
   {
-    "rank": "50",
-    "id": "basic-attention-token",
-    "name": "Basic Attention Token",
-    "symbol": "BAT",
-    "price_usd": "0.201903",
-    "price_btc": "0.00003430",
+    "rank": "75",
+    "id": "funfair",
+    "name": "FunFair",
+    "symbol": "fun",
+    "price_usd": "0.0220285",
+    "price_btc": "0.00000374",
     "last_updated": "1530270794"
   },
   {
-    "rank": "51",
-    "id": "status",
-    "name": "Status",
-    "symbol": "SNT",
-    "price_usd": "0.0580909",
-    "price_btc": "0.00000987",
+    "rank": "74",
+    "id": "dentacoin",
+    "name": "Dentacoin",
+    "symbol": "dcn",
+    "price_usd": "0.000340934",
+    "price_btc": "0.00000006",
     "last_updated": "1530270794"
   },
   {
-    "rank": "52",
-    "id": "bitcoin-private",
-    "name": "Bitcoin Private",
-    "symbol": "BTCP",
-    "price_usd": "9.7937",
-    "price_btc": "0.00166355",
-    "last_updated": "1530270803"
+    "rank": "72",
+    "id": "monacoin",
+    "name": "MonaCoin",
+    "symbol": "mona",
+    "price_usd": "1.9567",
+    "price_btc": "0.00033236",
+    "last_updated": "1530270784"
   },
   {
-    "rank": "53",
-    "id": "hshare",
-    "name": "Hshare",
-    "symbol": "HSR",
-    "price_usd": "4.42225",
-    "price_btc": "0.00075116",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "54",
-    "id": "huobi-token",
-    "name": "Huobi Token",
-    "symbol": "HT",
-    "price_usd": "3.76844",
-    "price_btc": "0.0006401",
-    "last_updated": "1530270800"
+    "rank": "13",
+    "id": "neo",
+    "name": "NEO",
+    "symbol": "neo",
+    "price_usd": "28.1821",
+    "price_btc": "0.00478698",
+    "last_updated": "1530270790"
   },
   {
     "rank": "55",
     "id": "loopring",
     "name": "Loopring",
-    "symbol": "LRC",
+    "symbol": "lrc",
     "price_usd": "0.319593",
     "price_btc": "0.00005429",
     "last_updated": "1530270794"
   },
   {
-    "rank": "56",
-    "id": "waltonchain",
-    "name": "Waltonchain",
-    "symbol": "WTC",
-    "price_usd": "5.79242",
-    "price_btc": "0.0009839",
+    "rank": "5",
+    "id": "eos",
+    "name": "EOS",
+    "symbol": "eos",
+    "price_usd": "7.26767",
+    "price_btc": "0.00123448",
     "last_updated": "1530270794"
   },
   {
     "rank": "57",
     "id": "iostoken",
     "name": "IOST",
-    "symbol": "IOST",
+    "symbol": "iost",
     "price_usd": "0.0213355",
     "price_btc": "0.00000362",
     "last_updated": "1530270803"
@@ -516,387 +498,306 @@
     "rank": "58",
     "id": "digixdao",
     "name": "DigixDAO",
-    "symbol": "DGD",
+    "symbol": "dgd",
     "price_usd": "88.6348",
     "price_btc": "0.0150554",
     "last_updated": "1530270789"
   },
   {
-    "rank": "59",
-    "id": "kucoin-shares",
-    "name": "KuCoin Shares",
-    "symbol": "KCS",
-    "price_usd": "1.84345",
-    "price_btc": "0.00031313",
-    "last_updated": "1530270800"
+    "rank": "24",
+    "id": "lisk",
+    "name": "Lisk",
+    "symbol": "lsk",
+    "price_usd": "4.83928",
+    "price_btc": "0.000822",
+    "last_updated": "1530270789"
   },
   {
     "rank": "60",
     "id": "gxchain",
     "name": "GXChain",
-    "symbol": "GXS",
+    "symbol": "gxs",
     "price_usd": "2.45647",
     "price_btc": "0.00041725",
     "last_updated": "1530270794"
   },
   {
-    "rank": "61",
-    "id": "aion",
-    "name": "Aion",
-    "symbol": "AION",
-    "price_usd": "0.868301",
-    "price_btc": "0.00014749",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "62",
-    "id": "komodo",
-    "name": "Komodo",
-    "symbol": "KMD",
-    "price_usd": "1.39347",
-    "price_btc": "0.00023669",
-    "last_updated": "1530270789"
-  },
-  {
-    "rank": "63",
-    "id": "cryptonex",
-    "name": "Cryptonex",
-    "symbol": "CNX",
-    "price_usd": "3.1765",
-    "price_btc": "0.00053956",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "64",
-    "id": "bancor",
-    "name": "Bancor",
-    "symbol": "BNT",
-    "price_usd": "2.68589",
-    "price_btc": "0.00045622",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "65",
-    "id": "maidsafecoin",
-    "name": "MaidSafeCoin",
-    "symbol": "MAID",
-    "price_usd": "0.294592",
-    "price_btc": "0.00005004",
-    "last_updated": "1530270784"
-  },
-  {
-    "rank": "66",
-    "id": "aelf",
-    "name": "aelf",
-    "symbol": "ELF",
-    "price_usd": "0.521028",
-    "price_btc": "0.00008850",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "67",
-    "id": "moac",
-    "name": "MOAC",
-    "symbol": "MOAC",
-    "price_usd": "3.56604",
-    "price_btc": "0.00060572",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "68",
-    "id": "reddcoin",
-    "name": "ReddCoin",
-    "symbol": "RDD",
-    "price_usd": "0.00441477",
-    "price_btc": "0.00000075",
-    "last_updated": "1530270781"
-  },
-  {
     "rank": "69",
     "id": "mithril",
     "name": "Mithril",
-    "symbol": "MITH",
+    "symbol": "mith",
     "price_usd": "0.399081",
     "price_btc": "0.00006779",
     "last_updated": "1530270807"
   },
   {
-    "rank": "70",
-    "id": "ardor",
-    "name": "Ardor",
-    "symbol": "ARDR",
-    "price_usd": "0.126451",
-    "price_btc": "0.00002148",
-    "last_updated": "1530270785"
+    "rank": "62",
+    "id": "komodo",
+    "name": "Komodo",
+    "symbol": "kmd",
+    "price_usd": "1.39347",
+    "price_btc": "0.00023669",
+    "last_updated": "1530270789"
   },
   {
-    "rank": "71",
-    "id": "ark",
-    "name": "Ark",
-    "symbol": "ARK",
-    "price_usd": "1.18537",
-    "price_btc": "0.00020135",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "72",
-    "id": "monacoin",
-    "name": "MonaCoin",
-    "symbol": "MONA",
-    "price_usd": "1.9567",
-    "price_btc": "0.00033236",
+    "rank": "18",
+    "id": "nem",
+    "name": "NEM",
+    "symbol": "xem",
+    "price_usd": "0.147477",
+    "price_btc": "0.00002505",
     "last_updated": "1530270784"
   },
   {
-    "rank": "73",
-    "id": "centrality",
-    "name": "Centrality",
-    "symbol": "CENNZ",
-    "price_usd": "0.145111",
-    "price_btc": "0.00002465",
-    "last_updated": "1530270803"
+    "rank": "6",
+    "id": "litecoin",
+    "name": "Litecoin",
+    "symbol": "ltc",
+    "price_usd": "73.9838",
+    "price_btc": "0.0125668",
+    "last_updated": "1530270781"
   },
   {
-    "rank": "74",
-    "id": "dentacoin",
-    "name": "Dentacoin",
-    "symbol": "DCN",
-    "price_usd": "0.000340934",
-    "price_btc": "0.00000006",
-    "last_updated": "1530270794"
+    "rank": "65",
+    "id": "maidsafecoin",
+    "name": "MaidSafeCoin",
+    "symbol": "maid",
+    "price_usd": "0.294592",
+    "price_btc": "0.00005004",
+    "last_updated": "1530270784"
   },
   {
-    "rank": "75",
-    "id": "funfair",
-    "name": "FunFair",
-    "symbol": "FUN",
-    "price_usd": "0.0220285",
-    "price_btc": "0.00000374",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "76",
-    "id": "ethos",
-    "name": "Ethos",
-    "symbol": "ETHOS",
-    "price_usd": "1.41575",
-    "price_btc": "0.00024048",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "77",
-    "id": "dropil",
-    "name": "Dropil",
-    "symbol": "DROP",
-    "price_usd": "0.00539648",
-    "price_btc": "0.00000092",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "78",
-    "id": "kyber-network",
-    "name": "Kyber Network",
-    "symbol": "KNC",
-    "price_usd": "0.763206",
-    "price_btc": "0.00012964",
+    "rank": "39",
+    "id": "rchain",
+    "name": "RChain",
+    "symbol": "rhoc",
+    "price_usd": "0.777441",
+    "price_btc": "0.00013206",
     "last_updated": "1530270797"
-  },
-  {
-    "rank": "79",
-    "id": "enigma-project",
-    "name": "Enigma",
-    "symbol": "ENG",
-    "price_usd": "1.35014",
-    "price_btc": "0.00022933",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "80",
-    "id": "pivx",
-    "name": "PIVX",
-    "symbol": "PIVX",
-    "price_usd": "1.78346",
-    "price_btc": "0.00030294",
-    "last_updated": "1530270790"
-  },
-  {
-    "rank": "81",
-    "id": "cortex",
-    "name": "Cortex",
-    "symbol": "CTXC",
-    "price_usd": "0.668006",
-    "price_btc": "0.00011347",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "82",
-    "id": "emercoin",
-    "name": "Emercoin",
-    "symbol": "EMC",
-    "price_usd": "2.38069",
-    "price_btc": "0.00040438",
-    "last_updated": "1530270786"
-  },
-  {
-    "rank": "83",
-    "id": "kin",
-    "name": "Kin",
-    "symbol": "KIN",
-    "price_usd": "0.00013045",
-    "price_btc": "0.00000002",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "84",
-    "id": "elastos",
-    "name": "Elastos",
-    "symbol": "ELA",
-    "price_usd": "18.4602",
-    "price_btc": "0.00313563",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "85",
-    "id": "gas",
-    "name": "Gas",
-    "symbol": "GAS",
-    "price_usd": "9.11532",
-    "price_btc": "0.00154832",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "86",
-    "id": "cybermiles",
-    "name": "CyberMiles",
-    "symbol": "CMT",
-    "price_usd": "0.13296",
-    "price_btc": "0.00002258",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "87",
-    "id": "waykichain",
-    "name": "WaykiChain",
-    "symbol": "WICC",
-    "price_usd": "0.542842",
-    "price_btc": "0.00009221",
-    "last_updated": "1530270800"
-  },
-  {
-    "rank": "88",
-    "id": "theta-token",
-    "name": "Theta Token",
-    "symbol": "THETA",
-    "price_usd": "0.137449",
-    "price_btc": "0.00002335",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "89",
-    "id": "bibox-token",
-    "name": "Bibox Token",
-    "symbol": "BIX",
-    "price_usd": "0.869317",
-    "price_btc": "0.00014766",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "90",
-    "id": "veritaseum",
-    "name": "Veritaseum",
-    "symbol": "VERI",
-    "price_usd": "44.0013",
-    "price_btc": "0.00747401",
-    "last_updated": "1530270794"
-  },
-  {
-    "rank": "91",
-    "id": "fusion",
-    "name": "Fusion",
-    "symbol": "FSN",
-    "price_usd": "2.99776",
-    "price_btc": "0.0005092",
-    "last_updated": "1530270803"
-  },
-  {
-    "rank": "92",
-    "id": "loom-network",
-    "name": "Loom Network",
-    "symbol": "LOOM",
-    "price_usd": "0.145109",
-    "price_btc": "0.00002465",
-    "last_updated": "1530270806"
-  },
-  {
-    "rank": "93",
-    "id": "monaco",
-    "name": "Monaco",
-    "symbol": "MCO",
-    "price_usd": "5.53683",
-    "price_btc": "0.00094048",
-    "last_updated": "1530270794"
   },
   {
     "rank": "94",
     "id": "nxt",
     "name": "Nxt",
-    "symbol": "NXT",
+    "symbol": "nxt",
     "price_usd": "0.0864874",
     "price_btc": "0.00001469",
     "last_updated": "1530270784"
   },
   {
-    "rank": "95",
-    "id": "decentraland",
-    "name": "Decentraland",
-    "symbol": "MANA",
-    "price_usd": "0.0806708",
-    "price_btc": "0.00001370",
+    "rank": "7",
+    "id": "stellar",
+    "name": "Stellar",
+    "symbol": "xlm",
+    "price_usd": "0.17686",
+    "price_btc": "0.00003004",
+    "last_updated": "1530270784"
+  },
+  {
+    "rank": "33",
+    "id": "steem",
+    "name": "Steem",
+    "symbol": "steem",
+    "price_usd": "1.25224",
+    "price_btc": "0.0002127",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "3",
+    "id": "ripple",
+    "name": "Ripple",
+    "symbol": "xrp",
+    "price_usd": "0.437228",
+    "price_btc": "0.00007427",
+    "last_updated": "1530270782"
+  },
+  {
+    "rank": "19",
+    "id": "ontology",
+    "name": "Ontology",
+    "symbol": "ont",
+    "price_usd": "4.80504",
+    "price_btc": "0.00081618",
+    "last_updated": "1530270803"
+  },
+  {
+    "rank": "51",
+    "id": "status",
+    "name": "Status",
+    "symbol": "snt",
+    "price_usd": "0.0580909",
+    "price_btc": "0.00000987",
     "last_updated": "1530270794"
+  },
+  {
+    "rank": "20",
+    "id": "qtum",
+    "name": "Qtum",
+    "symbol": "qtum",
+    "price_usd": "7.89536",
+    "price_btc": "0.0013411",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "34",
+    "id": "siacoin",
+    "name": "Siacoin",
+    "symbol": "sc",
+    "price_usd": "0.0094039",
+    "price_btc": "0.00000160",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "47",
+    "id": "populous",
+    "name": "Populous",
+    "symbol": "ppt",
+    "price_usd": "5.91619",
+    "price_btc": "0.00100492",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "68",
+    "id": "reddcoin",
+    "name": "ReddCoin",
+    "symbol": "rdd",
+    "price_usd": "0.00441477",
+    "price_btc": "0.00000075",
+    "last_updated": "1530270781"
+  },
+  {
+    "rank": "80",
+    "id": "pivx",
+    "name": "PIVX",
+    "symbol": "pivx",
+    "price_usd": "1.78346",
+    "price_btc": "0.00030294",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "21",
+    "id": "omisego",
+    "name": "OmiseGO",
+    "symbol": "omg",
+    "price_usd": "6.79884",
+    "price_btc": "0.00115484",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "90",
+    "id": "veritaseum",
+    "name": "Veritaseum",
+    "symbol": "veri",
+    "price_usd": "44.0013",
+    "price_btc": "0.00747401",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "42",
+    "id": "waves",
+    "name": "Waves",
+    "symbol": "waves",
+    "price_usd": "2.48369",
+    "price_btc": "0.00042188",
+    "last_updated": "1530270790"
+  },
+  {
+    "rank": "9",
+    "id": "tether",
+    "name": "Tether",
+    "symbol": "usdt",
+    "price_usd": "0.998381",
+    "price_btc": "0.00016958",
+    "last_updated": "1530270785"
+  },
+  {
+    "rank": "48",
+    "id": "wanchain",
+    "name": "Wanchain",
+    "symbol": "wan",
+    "price_usd": "2.01723",
+    "price_btc": "0.00034264",
+    "last_updated": "1530270806"
+  },
+  {
+    "rank": "88",
+    "id": "theta-token",
+    "name": "Theta Token",
+    "symbol": "theta",
+    "price_usd": "0.137449",
+    "price_btc": "0.00002335",
+    "last_updated": "1530270803"
+  },
+  {
+    "rank": "17",
+    "id": "vechain",
+    "name": "VeChain",
+    "symbol": "ven",
+    "price_usd": "2.47509",
+    "price_btc": "0.00042042",
+    "last_updated": "1530270797"
+  },
+  {
+    "rank": "36",
+    "id": "verge",
+    "name": "Verge",
+    "symbol": "xvg",
+    "price_usd": "0.0209906",
+    "price_btc": "0.00000357",
+    "last_updated": "1530270784"
+  },
+  {
+    "rank": "56",
+    "id": "waltonchain",
+    "name": "Waltonchain",
+    "symbol": "wtc",
+    "price_usd": "5.79242",
+    "price_btc": "0.0009839",
+    "last_updated": "1530270794"
+  },
+  {
+    "rank": "11",
+    "id": "tron",
+    "name": "TRON",
+    "symbol": "trx",
+    "price_usd": "0.0357315",
+    "price_btc": "0.00000607",
+    "last_updated": "1530270797"
   },
   {
     "rank": "96",
     "id": "syscoin",
     "name": "Syscoin",
-    "symbol": "SYS",
+    "symbol": "sys",
     "price_usd": "0.157261",
     "price_btc": "0.00002671",
     "last_updated": "1530270790"
   },
   {
-    "rank": "97",
-    "id": "trueusd",
-    "name": "TrueUSD",
-    "symbol": "TUSD",
-    "price_usd": "1.00047",
-    "price_btc": "0.00016994",
-    "last_updated": "1530270806"
+    "rank": "22",
+    "id": "zcash",
+    "name": "Zcash",
+    "symbol": "zec",
+    "price_usd": "149.534",
+    "price_btc": "0.0253996",
+    "last_updated": "1530270790"
   },
   {
-    "rank": "98",
-    "id": "game",
-    "name": "Game.com",
-    "symbol": "GTC",
-    "price_usd": "0.101817",
-    "price_btc": "0.00001729",
+    "rank": "25",
+    "id": "zilliqa",
+    "name": "Zilliqa",
+    "symbol": "zil",
+    "price_usd": "0.0612896",
+    "price_btc": "0.00001041",
     "last_updated": "1530270803"
   },
   {
-    "rank": "99",
-    "id": "nuls",
-    "name": "Nuls",
-    "symbol": "NULS",
-    "price_usd": "1.89186",
-    "price_btc": "0.00032135",
-    "last_updated": "1530270797"
-  },
-  {
-    "rank": "100",
-    "id": "scryinfo",
-    "name": "Scry.info",
-    "symbol": "DDD",
-    "price_usd": "0.24884",
-    "price_btc": "0.00004227",
-    "last_updated": "1530270803"
+    "rank": "66",
+    "id": "aelf",
+    "name": "aelf",
+    "symbol": "elf",
+    "price_usd": "0.521028",
+    "price_btc": "0.00008850",
+    "last_updated": "1530270800"
   }
 ]
