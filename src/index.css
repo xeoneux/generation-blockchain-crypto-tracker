@@ -42,7 +42,7 @@ body {
 .coin-name {
   top: 50%;
   float: left;
-  width: 100px;
+  width: 150px;
   height: 20px;
   color: #e45;
   margin-top: -10px;
@@ -53,6 +53,11 @@ body {
   font-size: 14px;
   text-align: left;
   font-weight: 700;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-right: 10px;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -95,8 +100,8 @@ body {
 }
 
 .coin-select > p {
-  margin-bottom: 0;
   overflow: hidden;
+  margin: 10px 0 0 0;
   white-space: nowrap;
   text-overflow: ellipsis;
 }

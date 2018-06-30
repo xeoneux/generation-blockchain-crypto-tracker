@@ -4,7 +4,7 @@ import Data from '../data.json';
 
 class App extends React.Component {
   state = {
-    favourites: ['stellar', 'bitcoin', 'ripple']
+    favourites: ['ethereum', 'stellar', 'bitcoin', 'ripple', 'monero']
   };
 
   favouriteCoin = coinId => {
@@ -29,30 +29,33 @@ class App extends React.Component {
             <ul>
               {this.state.favourites.map(favourite => {
                 const coin = Data.find(coin => coin.id === favourite);
+
                 return (
-                  <li key={coin.id} className="coin-item">
-                    <div className="coin-image">
-                      <img
-                        alt={coin.name}
-                        src={require(`cryptocurrency-icons/dist/svg/color/${
-                          coin.symbol
-                        }.svg`)}
-                      />
-                    </div>
+                  coin && (
+                    <li key={coin.id} className="coin-item">
+                      <div className="coin-image">
+                        <img
+                          alt={coin.name}
+                          src={require(`cryptocurrency-icons/dist/svg/color/${
+                            coin.symbol
+                          }.svg`)}
+                        />
+                      </div>
 
-                    <div className="coin-name">
-                      <p>{coin.name}</p>
-                    </div>
+                      <div className="coin-name">
+                        <p>{coin.name}</p>
+                      </div>
 
-                    <div className="coin-info">
-                      <h4>${coin.price_usd}</h4>
-                      <p>{coin.price_btc}</p>
-                    </div>
+                      <div className="coin-info">
+                        <h4>${coin.price_usd}</h4>
+                        <p>{coin.price_btc}</p>
+                      </div>
 
-                    <div className="coin-rank">
-                      <p>{coin.rank}</p>
-                    </div>
-                  </li>
+                      <div className="coin-rank">
+                        <p>{coin.rank}</p>
+                      </div>
+                    </li>
+                  )
                 );
               })}
             </ul>
