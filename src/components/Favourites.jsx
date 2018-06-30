@@ -37,7 +37,7 @@ class Favourites extends React.Component {
                 </div>
 
                 <div className="coin-rank">
-                  <p>{coin.rank}</p>
+                  <p>#{coin.rank}</p>
                 </div>
               </li>
             ))}
