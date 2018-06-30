@@ -68,9 +68,11 @@ body {
   border-radius: 10px;
   background-color: white;
 }
+
 .coin-remove:before {
   transform: rotate(45deg);
 }
+
 .coin-remove:after {
   transform: rotate(-45deg);
 }
@@ -139,6 +141,7 @@ body {
   overflow: hidden;
   margin: 10px 0 0 0;
   white-space: nowrap;
+  padding: 0 5px 0 5px;
   text-overflow: ellipsis;
 }
 
