@@ -45,6 +45,24 @@ class App extends React.Component {
             </ul>
           </div>
         </section>
+
+        <section>
+          <div className="container">
+            <div className="row">
+              {Data.map(coin => (
+                <div key={coin.id} className="coin-select col-md-1">
+                  <img
+                    alt={coin.name}
+                    src={require(`cryptocurrency-icons/dist/svg/color/${
+                      coin.symbol
+                    }.svg`)}
+                  />
+                  <p>{coin.name}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
       </main>
     );
   }
