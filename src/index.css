@@ -32,11 +32,47 @@ body {
   border-left: 4px solid #e45;
 }
 
+.coin-image:hover {
+  border-left: 20px solid #e45;
+}
+
+.coin-image:hover > img {
+  left: -8px;
+}
+
+.coin-image:hover > .coin-remove {
+  opacity: 1;
+}
+
 .coin-image > img {
   top: -30%;
   width: 30px;
   height: 30px;
   position: relative;
+}
+
+.coin-remove {
+  top: 15%;
+  opacity: 0;
+  left: -12px;
+  position: absolute;
+}
+
+.coin-remove:before,
+.coin-remove:after {
+  width: 4px;
+  height: 15px;
+  content: ' ';
+  cursor: pointer;
+  position: absolute;
+  border-radius: 10px;
+  background-color: white;
+}
+.coin-remove:before {
+  transform: rotate(45deg);
+}
+.coin-remove:after {
+  transform: rotate(-45deg);
 }
 
 .coin-name {

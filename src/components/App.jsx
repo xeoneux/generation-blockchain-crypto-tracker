@@ -7,9 +7,17 @@ class App extends React.Component {
     favourites: ['ethereum', 'stellar', 'bitcoin', 'ripple', 'monero']
   };
 
-  favouriteCoin = coinId => {
+  addToFavourites = coinId => {
     this.setState({
       favourites: this.state.favourites.concat([coinId])
+    });
+  };
+
+  removeFromFavourites = coinId => {
+    this.setState({
+      favourites: this.state.favourites.filter(
+        favourite => favourite !== coinId
+      )
     });
   };
 
@@ -34,6 +42,10 @@ class App extends React.Component {
                   coin && (
                     <li key={coin.id} className="coin-item">
                       <div className="coin-image">
+                        <div
+                          className="coin-remove"
+                          onClick={() => this.removeFromFavourites(coin.id)}
+                        />
                         <img
                           alt={coin.name}
                           src={require(`cryptocurrency-icons/dist/svg/color/${
@@ -71,7 +83,7 @@ class App extends React.Component {
                 <div
                   key={coin.id}
                   className="coin-select col-md-1"
-                  onClick={() => this.favouriteCoin(coin.id)}
+                  onClick={() => this.addToFavourites(coin.id)}
                 >
                   <img
                     alt={coin.name}
