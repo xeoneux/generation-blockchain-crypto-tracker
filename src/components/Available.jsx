@@ -4,6 +4,8 @@ class Available extends React.Component {
   render() {
     return (
       <section>
+        <h3 className="coin-available">Available Cryptocurrencies</h3>
+
         <div className="container">
           <div className="row">
             {this.props.coins.map(coin => (

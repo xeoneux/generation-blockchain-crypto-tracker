@@ -132,6 +132,10 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.coin-available {
+  padding: 25px;
+}
+
 .coin-select {
   cursor: pointer;
   padding: 15px 0;
