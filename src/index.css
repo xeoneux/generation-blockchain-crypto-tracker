@@ -1,5 +1,90 @@
+@import 'https://bootswatch.com/4/cosmo/bootstrap.min.css';
+
+* {
+  padding: 0px;
+  margin: 0px auto;
+  text-align: center;
+}
+
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  background: linear-gradient(
+    135deg,
+    rgba(250, 249, 247, 1) 0%,
+    rgba(221, 218, 209, 1) 100%
+  );
+}
+
+.coin-item {
+  height: 75px;
+  list-style: none;
+  background-color: #f1f1ef;
+  box-shadow: 1px 10px 20px 0px rgba(218, 215, 206, 0.8);
+}
+
+.coin-image {
+  top: 50%;
+  float: left;
+  width: 100px;
+  height: 20px;
+  color: #e45;
+  margin-top: -10px;
+  position: relative;
+  border-left: 4px solid #e45;
+}
+
+.coin-image > img {
+  top: -30%;
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+
+.coin-name {
+  top: 50%;
+  float: left;
+  width: 100px;
+  height: 20px;
+  color: #e45;
+  margin-top: -10px;
+  position: relative;
+}
+
+.coin-name > p {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.coin-info {
+  float: left;
+  width: 150px;
+  margin-top: 20px;
+  position: relative;
+}
+.coin-info > h4 {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.coin-info > p {
+  color: #999;
+  font-size: 10px;
+  text-align: left;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.coin-rank {
+  top: 50%;
+  float: left;
+  width: 121px;
+  height: 14px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: -10px;
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
 }
